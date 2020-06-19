@@ -7,4 +7,4 @@
 И в blocklauncher нажимаете на гаичный ключ: MCPE script: плюсик: и выбираете чит из папки в которую вы разархивировали архив
 # Help
 Ссылка на гайд:\
-- [Гайд] (https://youtu.be/ORaEgVsBblA)
+- [Гайд](https://youtu.be/ORaEgVsBblA)
